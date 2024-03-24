@@ -1,4 +1,4 @@
-#ANEALLING ALGORITHM
+# ANEALLING ALGORITHM
 
 Project made for AGH UST Numerical Methods Course
 
