@@ -1,6 +1,6 @@
 # ANEALLING ALGORITHM
 
-Project made for AGH UST Numerical Methods Course
+Project made for AGH UST Course
 
 ## Implementation of anealling algorithm to solve:
 1. **[Travelling salesman problem](https://github.com/mhytrek/Annealing_algorithm/blob/main/TSP.ipynb)**
